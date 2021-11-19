@@ -1,0 +1,19 @@
+/target
+/.classpath
+/.settings
+/.project
+/build
+/out
+.gradle
+
+
+# the highscore file should not be commited
+highscores.json
+snakefx_highscores.json
+
+# backup files from SceneBuilder
+*.bak
+
+#idea
+.idea
+*.iml
